@@ -1,3 +1,4 @@
+Queries for StateRepository-Machine.srd located at `C:\ProgramData\Microsoft\Windows\AppRepository\Packages\`
 ## Getting App details
 
 ```
